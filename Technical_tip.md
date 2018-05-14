@@ -69,3 +69,5 @@ Finally, if you ever find yourself filling in the same command over and over and
 you can always just use `!<start of command>` to fill in the command again. 
 
 Enjoy the commmand line!
+
+If you want to talk  to me about this, you can reach me here on Github or on Twitter @Testing_crafty
