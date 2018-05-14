@@ -1,4 +1,3 @@
-% Technical tips every tester should know
 # Technical tips every tester should know
 
 Firstly a word about this blog, its inception and its purpose.
