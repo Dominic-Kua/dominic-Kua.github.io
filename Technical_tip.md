@@ -80,6 +80,4 @@ We’re expanding this year as customers increase and the likelihood is that any
 
 It’s cloud based mainly, so think AWS, Azure, Google Cloud etc. again you don’t need to be an expert in any of these, I’d never used them when I arrived. Familiarity and comfort with a Unix shell of some flavour would be a definite advantage as SSHing into a cloud machine to pull syslogs or tweak a set up is quite common.
 
-If this rambling set of words hasn’t put you off you can read the official spec here
-
-https://geospock.com/jobs/software-test-engineer
+If this rambling set of words hasn’t put you off you can read the official spec [here](https://geospock.com/jobs/software-test-engineer/)
