@@ -11,8 +11,9 @@ author), and it's [Blindsight by Peter Watts](http://www.rifters.com/real/Blinds
 A novel about aliens, consciousness, transcranial magnetic stimulation and the cost of thinking might seem like a very
 strange choice, but allow me to elaborate. 
 
+
 The book focuses on Siri Keaton, a human who's had most of his empathy centres in his brain removed and replaced with 
-computer hardware. He's a "synthesist", he takes information he doens't understand, reshapes it into another form that
+computer hardware. He's a "synthesist", he takes information he doesn't understand, reshapes it into another form that
 he doesn't necessarily understand either, but which others can process. The analogies to a neural net are quite obvious
 and the exploration of bugs in humanity's firmware (saccades, hallucinations, the illusion of control that consciousness
 provides) only serve to extend the software analogies.
