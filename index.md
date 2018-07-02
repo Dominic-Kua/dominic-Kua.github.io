@@ -5,3 +5,5 @@
 [Critique of pure testing](Critique_of_pure_testing.md)
 
 [Non testing book](Non_testing_book.md)
+
+[Non technical skill](non_technical_skill.md)
