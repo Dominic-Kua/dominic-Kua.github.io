@@ -7,3 +7,5 @@
 [Non testing book](Non_testing_book.md)
 
 [Non technical skill](non_technical_skill.md)
+
+[Wild card: Why everyone should learn to program](wild_card_1.md)
