@@ -11,3 +11,5 @@
 [Wild card: Why everyone should learn to program](wild_card_1.md)
 
 [Little known thing about Testing which seems obvious to everyone within testing](little_known_thing.md)
+
+[The perils and profits of overthinking](overthinking.md)
