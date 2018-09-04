@@ -12,4 +12,6 @@
 
 [Little known thing about Testing which seems obvious to everyone within testing](little_known_thing.md)
 
+[Most and least favourite thing about testing](most_least.md)
+
 [The perils and profits of overthinking](overthinking.md)
