@@ -13,3 +13,5 @@
 [Little known thing about Testing which seems obvious to everyone within testing](little_known_thing.md)
 
 [The perils and profits of overthinking](overthinking.md)
+
+[What keeps you testing, what tempts you away](keep_testing.md)
