@@ -1,10 +1,10 @@
 # Duck risotto, Dominic style
-##Equipment
+## Equipment
 * A good sharp knife
 * A heavy and at least 5cm deep frying pan, 30cm or more diameter
 * A wooden or silicone spoon to stir.
 
-##Ingredients:
+## Ingredients:
 
 * 2 duck breasts, skin on
 * 1 medium onion
