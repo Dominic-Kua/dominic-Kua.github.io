@@ -16,6 +16,6 @@
 
 [Most and least favourite thing about testing](most_least.md)
 
-[The perils and profits of overthinking](overthinking.md)
-
 [What keeps you testing, what tempts you away](keep_testing.md)
+
+[Duck risotto, Dominic style](wild_card_2.md)
