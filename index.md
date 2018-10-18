@@ -19,3 +19,5 @@
 [What keeps you testing, what tempts you away](keep_testing.md)
 
 [Duck risotto, Dominic style](wild_card_2.md)
+
+[No testers 20 years from now](no_testers_20_years.md)

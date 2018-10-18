@@ -19,4 +19,4 @@ and soon, the developer who knows testing better.
 
 I fear we're soon to be on the scrapheap of history and left as a short-lived blip on the history of programming as 
 the ideas of testing and exploration become embedded in the next generation of developers. I also don't think it's a bad
-thing at all. Quality being everyone's responsibility means this is the natural progression.  
+thing at all. Quality being everyone's responsibility means this is the natural progression.
