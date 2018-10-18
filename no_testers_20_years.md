@@ -10,4 +10,4 @@ quality evangelists and greater use of automated systems, including today's pape
 Allow me to elaborate. There was a time (and in some companies this is still true), where a software tester was/is a 
 warm body who can follow a script and raise a defect when something went awry. Nothing outside the scripts, just doing
 what was asked and not a whit more. But some testers started to chafe, get creative, talk to developers and start to 
-explore the product in new and unscripted ways. Not leaving behind a legacy of  
+explore the product in new and unscripted ways. 
