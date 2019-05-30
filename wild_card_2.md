@@ -10,7 +10,7 @@
 * 1 medium onion
 * 2 shallots
 * 1 tbsp olive oil
-* 1 tbsp fredhy ground black pepper.
+* 1 tbsp freshly ground black pepper.
 * 1.5 litres duck stock
 * 1 glass of dry white wine (optional)
 * 300g of arborio rice
