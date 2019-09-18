@@ -94,7 +94,7 @@ taxi ride or train. I'll be able to get to her in minutes at any point during th
 even do a couple of hours in an evening and be ready for errands or whatever comes along.
 
 ### Portioning of food
-I've been losing weight (intenionally) recently and one major issue was that if I didn't take food with me
+I've been losing weight (intentionally) recently and one major issue was that if I didn't take food with me
 to work, getting a quick, cheap and low calorie meal was extremely challenging. Now I can cook at home and 
 just eat a sensible diet.
 
