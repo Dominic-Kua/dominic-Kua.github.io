@@ -15,7 +15,7 @@ around reading, I'm up to fifteen hours a week I can spend with my family, or do
 last day commuting, my train to work was cancelled. It did not make me regret my choices. 
 
 ### Reason three: A new challenge. 
-My old job was never easy. I was continually learning, growing, fighting against some of the most intractable and leading edges testing problems I've ever heard of. I mean there was basically
+My old job was never easy. I was continually learning, growing, fighting against some of the most intractable and leading edge testing problems I've ever heard of. I mean there was basically
 never a situation where I could take a solution off the shelf and apply it, I always needed to invent the framework, develop a solution, create a new way to do things. It was an exciting problem
 space. But it was only one problem space. So while it was always novel within the space, I felt it was time to move outside that space. The new role is in a completely different sector and
 already I'm finding new ways to apply old solutions to problems in a way that's really got my attention again.
