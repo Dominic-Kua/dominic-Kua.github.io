@@ -11,7 +11,7 @@ so I can tailor my hours to fit me and the school day. Thus I work from 07:00 to
 ### Reason two: selfishness.
 I loathe commuting, even the small commute I did at my last job. It was, on paper, 4 minutes on the train, but then there was the walking to and from the station at both ends,
 waiting for the inevitably delayed train. It all added up and I was shocked to realise I was losing _ten hours a week_ to commuting. When you factor in the hour of lunch where I was sat
-around reading, I'm up to fifteen hours a week where I can do things around the house, spend with my family. That's like 2 working days a week extra time for me! It also helped that my 
+around reading, I'm up to fifteen hours a week I can spend with my family, or do things around the house. That's like 2 working days a week extra time for me! It also helped that my 
 last day commuting, my train to work was cancelled. It did not make me regret my choices. 
 
 ### Reason three: A new challenge. 
