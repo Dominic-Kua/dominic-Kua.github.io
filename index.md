@@ -23,3 +23,5 @@
 [No testers 20 years from now](no_testers_20_years.md)
 
 [Working from Home](working-from-home.md)
+
+[Bash! Ahhhh!](bash-ahhhh.md)
