@@ -25,3 +25,5 @@
 [Working from Home](working-from-home.md)
 
 [Bash! Ahhhh!](bash-ahhhh.md)
+
+[Command Line Naviagtion](navigating-in-the-terminal.md)
